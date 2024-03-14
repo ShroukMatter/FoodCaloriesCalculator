@@ -1,0 +1,6 @@
+@FoodCaloriesCalculator_HostAddress = http://localhost:5186
+
+GET {{FoodCaloriesCalculator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
